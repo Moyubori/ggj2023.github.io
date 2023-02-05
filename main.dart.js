@@ -59941,7 +59941,7 @@ A.Yk.prototype={
 $1(a){},
 $S:3}
 A.Yl.prototype={
-$1(a){var s=null,r=A.afL(B.k9,new A.lp("images/menu_art.jpg",s,s)),q=A.VW("images/logo.png",s),p=A.VW("images/controls.png",s),o=A.cF("button.png"),n=A.cF("button_click.png"),m=t.p
+$1(a){var s=null,r=A.afL(B.k9,new A.lp("menu_art.jpg",s,s)),q=A.VW("logo.png",s),p=A.VW("controls.png",s),o=A.cF("button.png"),n=A.cF("button_click.png"),m=t.p
 return A.ahz(A.jT(s,A.ahv(A.a([B.cz,A.afB(A.a([B.ub,q,p,B.Fq,A.adi(64,A.adp("Start!",A.e9(s,s,B.p,s,s,s,s,s,s,s,s,36,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.Yj(),n,o,292),B.ub],m)),B.Fu],m),B.fl),s,s,new A.hp(s,r,s,s,s,s,B.bf),s,s,s,s))},
 $S:117}
 A.Yj.prototype={
@@ -59949,7 +59949,7 @@ $0(){var s=t.X
 return $.qJ().gbR().tg("/dungeon",s,s)},
 $S:0}
 A.Ym.prototype={
-$1(a){var s=null,r=A.afL(B.k9,new A.lp("images/background.jpg",s,s)),q=A.VW("images/gameover.gif",s),p=A.VW("images/skeletal.png",0.5),o=A.cF("button.png"),n=A.cF("button_click.png")
+$1(a){var s=null,r=A.afL(B.k9,new A.lp("background.jpg",s,s)),q=A.VW("gameover.gif",s),p=A.VW("skeletal.png",0.5),o=A.cF("button.png"),n=A.cF("button_click.png")
 return A.ahz(A.jT(s,A.Ql(A.afB(A.a([B.cz,q,B.cz,p,B.cz,A.adi(64,A.adp("Back to Main Menu",A.e9(s,s,B.p,s,s,s,s,s,s,s,s,24,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.Yi(),n,o,292),B.cz],t.p)),s,s),s,s,new A.hp(s,r,s,s,s,s,B.bf),s,s,s,s))},
 $S:117}
 A.Yi.prototype={
